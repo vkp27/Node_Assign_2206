@@ -32,7 +32,7 @@ This is a RESTful API built with Node.js, MongoDB, and Express. It provides endp
 4. Start the server:
 
    ```
-   node app.js
+   node index.js
    ```
 
 5. The API server will be running at `http://localhost:3000`.
